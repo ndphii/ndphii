@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nguyễn Đức Phi</h1>
-<h3 align="center"> copy and paste , from Vietnam <img src="https://vectorflags.s3-us-west-2.amazonaws.com/flags/vn-button-01.png" width="20px" height="18px"></h3>
+<h3 align="center"> from Vietnam <img src="https://vectorflags.s3-us-west-2.amazonaws.com/flags/vn-button-01.png" width="20px" height="18px"></h3>
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Me:</h3>
 <p align="left">
 <a href="https://stackoverflow.com/users/14519808" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="14519808" height="30" width="40" /></a>
 <a href="https://fb.com/ndphii" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="nguyễn đức phi" height="30" width="40" /></a>
