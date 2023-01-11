@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Nguyễn Đức Phi</h1>
+<h1 align="center">Hi 👋 Nguyễn Đức Phi</h1>
 <h3 align="center"> from Vietnam <img src="https://vectorflags.s3-us-west-2.amazonaws.com/flags/vn-button-01.png" width="20px" height="18px"></h3>
 <span>
 
