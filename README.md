@@ -1,5 +1,5 @@
 <h1 align="center"> Nguyễn Đức Phi</h1>
-<h3 align="center"> from Vietnam <img src="https://vectorflags.s3-us-west-2.amazonaws.com/flags/vn-button-01.png" width="20px" height="18px"></h3>
+<h3 align="center">  Vietnam <img src="https://vectorflags.s3-us-west-2.amazonaws.com/flags/vn-button-01.png" width="20px" height="18px"></h3>
 <span>
 <p align="left">
 
@@ -14,7 +14,7 @@
   </a>
 </p>
 </span>
-<h3 align="left">Focus:</h3>
+
 <p align="left" style"display:flex;justify-content: space-between;>
   <a href="https://developer.android.com" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> 
